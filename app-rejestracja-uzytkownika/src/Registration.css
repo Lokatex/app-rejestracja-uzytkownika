@@ -1,0 +1,28 @@
+.Register{
+    padding: 60px 0;
+}
+
+.Register Form{
+    margin: 0 auto;
+    max-width: 320px;
+}
+
+button{
+    margin-top: 20px;
+    text-align: center;
+    width: 100%; /* Rozszerza przycisk na całą szerokość kontenera */
+    display: block; /* Upewnia się, że przycisk jest blokowy */
+}
+
+.form-label {
+    margin-bottom: 5px; /* Dostosuj wartość w razie potrzeby */
+}
+
+.username{
+    margin-bottom: 1px;
+}
+
+.password{
+    margin-top: 10px;
+    margin-bottom: 1px;
+}
